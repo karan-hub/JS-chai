@@ -11,3 +11,8 @@ All projects are available here in a special sandbox. All future projects will a
 =======
 # Js-Eipple-Effect
 >>>>>>> origin/main
+<<<<<<< HEAD
+Your changes here
+=======
+Changes from the remote branch here
+>>>>>>> origin/main
